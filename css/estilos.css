@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-    background-color: #f5f5f5;
+    background-color: #DAF5FF;
     color: #333;
     font-family: "Arial", sans-serif;
     margin: 0;
@@ -29,6 +29,12 @@ body {
     font-weight: bold;
 }
 
+#logo
+{
+    width: 35px;
+    vertical-align: middle;
+}
+
 #tagline {
     font-size: 14px;
     display: block;
@@ -39,6 +45,8 @@ body {
 #post {
     margin-top: 2em;
     text-align: justify;
+    background: white;
+    padding: 1em;
 }
 
 h1 {
